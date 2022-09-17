@@ -3,7 +3,7 @@
 Shows likes stats for your followers/following.
 
 
-<img src="img.png" alt="example">
+<img src="img.png" alt="example" width="400" height="400">
 
 Script has 2 uses
 1) It shows dict with likes amount for every your follower
