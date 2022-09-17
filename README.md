@@ -2,6 +2,9 @@
 
 Shows likes stats for your followers/following.
 
+
+<img src="img.png" alt="example">
+
 Script has 2 uses
 1) It shows dict with likes amount for every your follower
 2) It shows dict with likes amount for every your following
