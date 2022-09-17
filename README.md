@@ -2,6 +2,7 @@
 
 Shows likes stats for your followers/following.
 
+Powered by [instagrapi](https://github.com/adw0rd/instagrapi)
 
 <img src="img.png" alt="example" width="550" height="550">
 
