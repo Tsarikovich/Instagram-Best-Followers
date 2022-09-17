@@ -1,6 +1,6 @@
 # instagram_best_followers
 
-Shows likes stats for your foolowers/following.
+Shows likes stats for your followers/following.
 
 Script has 2 uses
 1) It shows dict with likes amount for every your follower
