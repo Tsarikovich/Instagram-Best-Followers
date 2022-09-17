@@ -8,7 +8,7 @@ Script has 2 uses
 
 You can use this dict to analyze your "dead" followers or following (who doesn't send you likes).
 
-Dict is sorting by likes and saving in json files.
+Sorted dict is saved to json. 
 
 ### Installing
 Python 3.6 
