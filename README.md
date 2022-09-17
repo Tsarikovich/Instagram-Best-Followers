@@ -20,3 +20,5 @@ I use 2FA in my IG, so I connected pyotp library for generating 2FA codes.
 You need your own base32secret, for finding it go to IG -> security -> 2FA -> authentication app -> add (IOS) and just copy it.
 
 However, if you don't wanna do it or you don't use 2FA, you can login simply by your login and password.
+
+If you like it, don't be greedy, star the project :)
