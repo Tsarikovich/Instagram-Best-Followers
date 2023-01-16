@@ -4,3 +4,4 @@ __pycache__/
 .pre-commit-config.yaml
 .editorconfig
 .styleconfigs
+.idea
